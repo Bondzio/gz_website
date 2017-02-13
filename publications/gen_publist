@@ -1,1 +1,1 @@
-cat template_1.html ~/doc/bibliography/talks.bib ~/doc/bibliography/publications.bib template_2.html |grep -v "@Comment" >publications.html
+cat template_1.html ~/doc/bibliography/talks.bib ~/doc/bibliography/publications.bib template_2.html |grep -v "@Comment" >index.html
