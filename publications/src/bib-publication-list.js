@@ -153,8 +153,11 @@ var bibtexify = (function($) {
         },
         mastersthesis: function(entryData) {
             return this.authors2html(entryData.author) + " (" + entryData.year + "). " +
-            entryData.title + ". " + entryData.type + ". " +
-            entryData.organization + ", " + entryData.school + ".";
+            entryData.title + ". " + entryData.school + ".";
+        },
+        phdthesis: function(entryData) {
+            return this.authors2html(entryData.author) + " (" + entryData.year + "). " +
+            entryData.title + ". " + entryData.school + ".";
         },
         techreport: function(entryData) {
             return this.authors2html(entryData.author) + " (" + entryData.year + "). " +
@@ -211,7 +214,7 @@ var bibtexify = (function($) {
             'unpublished': 'Unpublished'}
     };
     // format a phd thesis similarly to masters thesis
-    bib2html.phdthesis = bib2html.mastersthesis;
+    //bib2html.phdthesis = bib2html.mastersthesis;
     // conference is the same as inproceedings
     //bib2html.conference = bib2html.inproceedings;
 
