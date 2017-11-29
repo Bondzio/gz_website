@@ -1,11 +1,18 @@
 {
- "name": "Leadership",
+ "name": "Leadership System",
  "children": [
-  { "name": "Objectives", "size": 1},
-  { "name": "Organize", "size": 1},
-  { "name": "Decide", "size": 1},
-  { "name": "Control", "size": 1},
-  { "name": "Coaching", "size": 1}
-   ],
- "name": "Fachaufgaben", "size":1
+  "name": "Leadership Aufgaben",
+  "children": [
+   { "name": "Objectives", "size": 1},
+   { "name": "Organize", "size": 1},
+   { "name": "Decide", "size": 1},
+   { "name": "Control", "size": 1},
+   { "name": "Coaching", "size": 1}
+  ],
+ "name": "Fachaufgaben", "size":1,
+ "name": "Tools",
+  "children": [
+   {"name": "Sitzung", "size":1}
+  ]
+ ]
 }
