@@ -9,8 +9,11 @@
    { "name": "Control", "size": 1},
    { "name": "Coaching", "size": 1}
   ],
- "name": "Fachaufgaben", "size":1,
- "name": "Tools",
+  "name": "Fachaufgaben", 
+  "children": [
+   {"name":"Testing","size":1}
+  ], 
+  "name": "Tools",
   "children": [
    {"name": "Sitzung", "size":1}
   ]
