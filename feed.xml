@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Gerolf Ziegenhain</title>
+    <description>Head of Management Services, DFS</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 20 Nov 2019 09:57:27 +0100</pubDate>
+    <lastBuildDate>Wed, 20 Nov 2019 09:57:27 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Building Garmin Maps</title>
+        <description>&lt;p&gt;Recently I have created Garmin maps containing cave locations based on OpenTopoMaps. These maps contain height lines and custom POIs of caves. They can be used both on Garmin devices and Oruxmaps (on Android). A Makefile for Garmin maps is provided in&lt;a href=&quot;https://github.com/8cH9azbsFifZ/garmin-opentopo&quot;&gt; this Repo&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 11 Aug 2018 18:49:38 +0200</pubDate>
+        <link>http://localhost:4000/2018-08-11-building-garmin-maps.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-08-11-building-garmin-maps.html</guid>
+        
+        <category>Garmin</category>
+        
+        <category>OSM</category>
+        
+        
+        <category>Garmin</category>
+        
+      </item>
+    
+      <item>
+        <title>Einfuhr von Amateurfunk-Bausätzen nach Deutschland</title>
+        <description>&lt;p&gt;Führt man einen Amateurfunk-Bausatz nach Deutschland ein (z.B. durch Postsendung aus den USA), kann der Weg zum Zollamt fällig werden. Für Amateurfunk-Bausätze ist (A) kein Zoll, (B) kein CE Kennzeichen und nur Einfuhrumsatzsteuer notwendig. Hier fasse ich die Fakten zusammen, die mir bei der Einfuhr bisher immer geholfen haben.&lt;/p&gt;
+
+&lt;p&gt;(A) Kein Zoll, sondern nur Einfuhrumsatzsteuer? Amateurfunk-Bausätze fallen unter den &lt;a href=&quot;https://www.zolltarifnummern.de/&quot;&gt;TARIC&lt;/a&gt; Warencode &lt;a href=&quot;http://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp?Lang=de&amp;amp;Taric=8517&amp;amp;Expand=true&amp;amp;SimDate=20170710#8517000000&quot;&gt;8517&lt;/a&gt; (“&lt;em&gt;[..] andere Sende- oder Empfangsgeräte für Töne, Bilder oder andere Daten, einschließlich Apparate für die Kommunikation in einem drahtgebundenen oder drahtlosen Netzwerk [..]&lt;/em&gt;”) (siehe auch &lt;a href=&quot;http://www.qrp4fun.de/dl-qrp-ag/pdf/Zoll.PDF&quot;&gt;Zollinformation von DK3RED&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;(B) CE Kennzeichnung nicht notwendig? In der &lt;a href=&quot;http://eur-lex.europa.eu/eli/dir/2014/53/oj&quot;&gt;Richtlinie 2014/53/EU&lt;/a&gt;, Anhang I, Paragraph 1, (a) sind “&lt;em&gt;[..] Bausätze für Funkanalgen, die von Funkamateuren zusammengebaut werden [..]&lt;/em&gt;” explizit von der Kennzeichnungspflicht ausgenommen.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Jul 2017 10:02:10 +0200</pubDate>
+        <link>http://localhost:4000/2017-07-15-einfuhr-von-amateurfunk-bausatzen-nach-deutschland.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-07-15-einfuhr-von-amateurfunk-bausatzen-nach-deutschland.html</guid>
+        
+        <category>Hardware</category>
+        
+        <category>QRP</category>
+        
+        
+        <category>Ham Radio</category>
+        
+      </item>
+    
+      <item>
+        <title>QRP Appliance?</title>
+        <description>&lt;p&gt;A QRP Appliance comes to live. It contains:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;KD1JV Tribander
+    &lt;ul&gt;
+      &lt;li&gt;with speaker mod&lt;/li&gt;
+      &lt;li&gt;power supply mod&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Elecraft T1 Tuner&lt;/li&gt;
+  &lt;li&gt;American Morse Paddle&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Power Poles&lt;/p&gt;
+
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/posts/2016-09-13-qrp-appliance/appliance.png&quot; /&gt;
+      &lt;figcaption&gt;Picture of the Prototype&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 13 Sep 2016 21:37:03 +0200</pubDate>
+        <link>http://localhost:4000/2016-09-13-qrp-appliance.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-09-13-qrp-appliance.html</guid>
+        
+        <category>Ham Radio</category>
+        
+        
+        <category>Ham Radio</category>
+        
+      </item>
+    
+      <item>
+        <title>Outdoor QRP Equipment</title>
+        <description>&lt;p&gt;Hiking is fun and QRP is fun. Both can be combined using homebrew equipment :)&lt;/p&gt;
+
+&lt;p&gt;This is my current light-weight QRP equipment for hiking:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ATS-4 (&lt;a href=&quot;http://kd1jv.qrpradio.com/&quot;&gt;KD1JV&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;T1 ATU (&lt;a href=&quot;http://www.elecraft.com/&quot;&gt;Elecraft&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Antenna (&lt;a href=&quot;http://www.buddipole.com/&quot;&gt;Buddipole&lt;/a&gt;)
+    &lt;ul&gt;
+      &lt;li&gt;VersaTee&lt;/li&gt;
+      &lt;li&gt;Shock-cord Whip 7 elements&lt;/li&gt;
+      &lt;li&gt;2x Antenna Arm 22”&lt;/li&gt;
+      &lt;li&gt;Ground wire (~10m)&lt;/li&gt;
+      &lt;li&gt;Coax Cable (RG174)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;PPK Straight Key (&lt;a href=&quot;http://www.palm-radio.de/&quot;&gt;Palm Radio&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;10 AA Cells (&lt;a href=&quot;http://en.wikipedia.org/wiki/Eneloop&quot;&gt;Eneloop&lt;/a&gt;) with &lt;a href=&quot;http://www.andersonpower.com/&quot;&gt;PowerPoles&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sennheiser Earphones&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Everything tied together using hook-and-loop-tape&lt;/p&gt;
+
+    &lt;figure&gt;
+    &lt;img src=&quot;/images/posts/2012-12-19-outdoor-qrp-equipment/antenna.png&quot; /&gt;
+    &lt;figcaption&gt;Buddipole Antenna in Yosemite Park&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+    &lt;figure&gt;
+    &lt;img src=&quot;/images/posts/2012-12-19-outdoor-qrp-equipment/qrp.png&quot; /&gt;
+    &lt;figcaption&gt;QRP Equipment&lt;/figcaption&gt;
+&lt;/figure&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 19 Dec 2012 21:50:00 +0100</pubDate>
+        <link>http://localhost:4000/2012-12-19-outdoor-qrp-equipment.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2012-12-19-outdoor-qrp-equipment.html</guid>
+        
+        <category>Ham Radio</category>
+        
+        <category>QRP</category>
+        
+        
+        <category>Ham Radio</category>
+        
+      </item>
+    
+  </channel>
+</rss>
