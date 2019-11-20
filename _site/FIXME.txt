@@ -1,0 +1,3 @@
+- profile.jpg
+- cover.jpg
+- font css & ttf pfade
