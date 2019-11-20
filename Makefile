@@ -1,5 +1,7 @@
 build:
 	bundle exec jekyll build
+	git add .
+	git commit -a -m "new build"
 
 deploy:
 	git checkout gh-pages
