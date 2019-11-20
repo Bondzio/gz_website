@@ -1,3 +1,6 @@
+build:
+	bundle exec jekyll build
+
 deploy:
 	git checkout gh-pages
 	git rm -rf .
