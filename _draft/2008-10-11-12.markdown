@@ -1,0 +1,28 @@
+---
+author: gerolfziegenhain
+comments: true
+date: 2008-10-11 18:20:00+00:00
+layout: post
+link: https://gerolfziegenhain.wordpress.com/2008/10/11/12/
+slug: '12'
+title: HamExam - Amateurfunk Prüfungstrainer for Nokia Maemo
+wordpress_id: 12
+categories:
+- Ham Radio
+---
+
+A tool for preparation of the ham radio license examination. This tool uses the questions provided [here](http://www.oliver-saal.de/) and the hints provided [here](http://www.dj4uf.de/).
+
+
+[![](http://repo.or.cz/w/HamExam.git?a=blob_plain;f=screenshot.jpg)](http://repo.or.cz/w/HamExam.git?a=blob_plain;f=screenshot.jpg)
+
+
+
+
+[http://hamexam.garage.maemo.org](http://hamexam.garage.maemo.org/)
+[http://sourceforge.net/projects/hamexam](http://sourceforge.net/projects/hamexam)
+git://repo.or.cz/HamExam.git
+
+
+
+

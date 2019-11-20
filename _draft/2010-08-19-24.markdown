@@ -1,0 +1,17 @@
+---
+author: gerolfziegenhain
+comments: true
+date: 2010-08-19 18:16:00+00:00
+layout: post
+link: https://gerolfziegenhain.wordpress.com/2010/08/19/24/
+slug: '24'
+title: Hamlib Spacenavigator
+wordpress_id: 24
+categories:
+- Ham Radio
+---
+
+A software to tune your rig using a 3d mouse. This script allows to use the space navigator 3d mouse to tune your rig using the hamlib interface. 
+
+git://gitorious.org/hamlib-spacenavigator/mainline.git
+[http://gitorious.org/hamlib-spacenavigator/mainline](http://gitorious.org/hamlib-spacenavigator/mainline)

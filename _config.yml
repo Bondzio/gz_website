@@ -1,0 +1,71 @@
+# Site settings
+title: Dr. Gerolf Ziegenhain
+description: 'Head of Management Services, DFS'
+url: 'https://g.ziegenhain.com'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Dr. Gerolf Ziegenhain'
+  email: g@ziegenhain.com
+  github_username: 8cH9azbsFifZ 
+  linkedin_username: gerolfziegenhain 
+  xing_username: Gerolf_Ziegenhain 
+  callsign: DG6FL
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year-:month-:day-:title.html
+
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: 
+ - jekyll-paginate
+ - jekyll-scholar
+ - jekyll-include-cache
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: year,month
+  order: descending
+
+  group_by: none
+  group_order: ascending
+
+  source: ./_bibliography
+  bibliography: "*.bib"
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"

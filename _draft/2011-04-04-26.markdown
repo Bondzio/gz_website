@@ -1,0 +1,15 @@
+---
+author: gerolfziegenhain
+comments: true
+date: 2011-04-04 17:59:00+00:00
+layout: post
+link: https://gerolfziegenhain.wordpress.com/2011/04/04/26/
+slug: '26'
+title: Biophysics VI Lecture
+wordpress_id: 26
+categories:
+- Teaching Physics
+---
+
+Link to the Biophysics VI lecture in WS2010/2011 [http://www.kis.uni-kl.de/](http://www.kis.uni-kl.de/).
+

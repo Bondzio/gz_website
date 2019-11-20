@@ -1,0 +1,32 @@
+---
+author: gerolfziegenhain
+comments: true
+date: 2009-01-10 19:28:00+00:00
+layout: post
+link: https://gerolfziegenhain.wordpress.com/2009/01/10/13/
+slug: '13'
+title: outvim // VIM outliner tool
+wordpress_id: 13
+categories:
+- Linux
+---
+
+A merged version of the two avaliable outliners for vim with some additional features. I use it with a git remote repository for syncing and the vo2html tool to print it to paper.
+
+
+[![](http://repo.or.cz/w/outvim.git?a=blob_plain;f=screenshot.jpg)](http://repo.or.cz/w/outvim.git?a=blob_plain;f=screenshot.jpg)
+
+
+
+
+
+
+
+[git://repo.or.cz/outvim.git](//repo.or.cz/outvim.git)
+
+
+
+
+
+_ _
+

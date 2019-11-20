@@ -1,0 +1,21 @@
+---
+author: gerolfziegenhain
+comments: true
+date: 2010-05-03 18:03:00+00:00
+layout: post
+link: https://gerolfziegenhain.wordpress.com/2010/05/03/22/
+slug: '22'
+title: View on the Whole Crystal
+wordpress_id: 22
+categories:
+- Physics
+- Simulations
+---
+
+The formation of a screw dislocation can be seen on the top surface. Obviously it is not easy to observe the plastic deformation.
+
+
+
+
+
+[youtube=http://www.youtube.com/watch?v=vbDu4UGo1uk]

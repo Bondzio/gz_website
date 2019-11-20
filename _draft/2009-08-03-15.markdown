@@ -1,0 +1,20 @@
+---
+author: gerolfziegenhain
+comments: true
+date: 2009-08-03 18:30:00+00:00
+layout: post
+link: https://gerolfziegenhain.wordpress.com/2009/08/03/15/
+slug: '15'
+title: gnutodo // GNU Todo
+wordpress_id: 15
+categories:
+- Linux
+---
+
+This script was an attempt to learn how to use scripting (AJAX) for webpages. It features a rich todo list and can be used from both command line and browser. The script is written in zsh. 
+
+
+[git://gitorious.org/gnutodo/mainline.git](//gitorious.org/gnutodo/mainline.git)
+
+
+

@@ -1,0 +1,16 @@
+---
+author: gerolfziegenhain
+comments: true
+date: 2011-11-19 19:46:00+00:00
+layout: post
+link: https://gerolfziegenhain.wordpress.com/2011/11/19/31/
+slug: '31'
+title: Funny Fork Bomb
+wordpress_id: 31
+categories:
+- Linux
+---
+
+Try this in your console, if you dare :D
+:(){ :|:& };:
+

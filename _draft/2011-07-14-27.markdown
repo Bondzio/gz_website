@@ -1,0 +1,29 @@
+---
+author: gerolfziegenhain
+comments: true
+date: 2011-07-14 18:53:00+00:00
+layout: post
+link: https://gerolfziegenhain.wordpress.com/2011/07/14/27/
+slug: '27'
+title: Verified All-Band TRX for the Yaesu FT 817 ND
+wordpress_id: 27
+categories:
+- Ham Radio
+---
+
+The information available on the web may be misleading: the jumper enumeration is ambiguous and little information on the extended range exists.  
+  
+I have summarized the information on how to enable all-band TRX on the FT 817 ND in the picture below.
+
+
+
+
+
+
+[![](http://gerolfziegenhain.files.wordpress.com/2011/07/a2a4b-ft817.png)](http://gerolfziegenhain.files.wordpress.com/2011/07/ft817.png)
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+---
+author: gerolfziegenhain
+comments: true
+date: 2007-09-04 18:22:00+00:00
+layout: post
+link: https://gerolfziegenhain.wordpress.com/2007/09/04/7/
+slug: '7'
+title: Nokia Maemo Experiments
+wordpress_id: 7
+categories:
+- Linux
+---
+
+Some experiments I have done with the Nokia Internet Tablets.
+
+
+#### Wecker!
+
+
+A simplistic alarm clock using mplayer. It was written, because the alarm clock supplied with OS200? is turning off the sound too fast for me. The software is written in python.
+[https://garage.maemo.org/frs/?group_id=670](https://garage.maemo.org/frs/?group_id=670)
+git://repo.or.cz/wecker.git

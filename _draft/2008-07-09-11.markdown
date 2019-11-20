@@ -1,0 +1,22 @@
+---
+author: gerolfziegenhain
+comments: true
+date: 2008-07-09 18:29:00+00:00
+layout: post
+link: https://gerolfziegenhain.wordpress.com/2008/07/09/11/
+slug: '11'
+title: Egatrop
+wordpress_id: 11
+categories:
+- Linux
+---
+
+An attempt to bring the advantages of [gentoo](http://www.gentoo.org/) to [debian](http://www.debian.org/). The ebuild / portage concept has been rewritten from scratch and adapted to debian to provide an easy way to keep track of custom compiled software. 
+
+
+
+
+
+
+
+[https://github.com/8cH9azbsFifZ/egatrop](https://github.com/8cH9azbsFifZ/egatrop)

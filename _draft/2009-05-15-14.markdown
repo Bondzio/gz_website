@@ -1,0 +1,15 @@
+---
+author: gerolfziegenhain
+comments: true
+date: 2009-05-15 18:29:00+00:00
+layout: post
+link: https://gerolfziegenhain.wordpress.com/2009/05/15/14/
+slug: '14'
+title: vo2html // Vim Outliner to HTML conversion tool
+wordpress_id: 14
+categories:
+- Linux
+---
+
+The vim editor has some nice extensions for outlining. In order to convert your stuff to html pages I wrote a small awk script. There are two versions Create webpages from [vim outliner](http://www.vimoutliner.org/)'s .otl files using css stylesheets. (up to version v0.2 in my repository).
+

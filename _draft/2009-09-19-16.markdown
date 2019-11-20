@@ -1,0 +1,23 @@
+---
+author: gerolfziegenhain
+comments: true
+date: 2009-09-19 18:26:00+00:00
+layout: post
+link: https://gerolfziegenhain.wordpress.com/2009/09/19/16/
+slug: '16'
+title: Sonata
+wordpress_id: 16
+categories:
+- Linux
+---
+
+Patched for changing the volume of the mpd server from commandline. This is in particular useful, if you want to bind the mpd controls to keyboard shortcuts. Using a simple commandline client for this is not so straight forward, if you want to control several mpd servers; then you would have to keep track to which server sonata is currently connected. Furthermore the last.fm support has been bugfixed. 
+
+
+[git://gitorious.org/sonata-vol/sonata-vol.git](//gitorious.org/sonata-vol/sonata-vol.git)
+
+
+_ _
+
+
+

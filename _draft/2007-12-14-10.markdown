@@ -1,0 +1,18 @@
+---
+author: gerolfziegenhain
+comments: true
+date: 2007-12-14 19:27:00+00:00
+layout: post
+link: https://gerolfziegenhain.wordpress.com/2007/12/14/10/
+slug: '10'
+title: rbackup - remote incremental backups using rsync
+wordpress_id: 10
+categories:
+- Linux
+---
+
+Using rsync/ssh this script will create incremental backups of your ~. It can easily be adjusted via crontab entries.
+[git://repo.or.cz/rbackup.git](//repo.or.cz/rbackup.git)
+_
+_
+
