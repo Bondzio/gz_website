@@ -3,10 +3,10 @@
   <channel>
     <title>Dr. Gerolf Ziegenhain</title>
     <description>Head of Management Services, DFS</description>
-    <link>https://g.ziegenhain.com/</link>
-    <atom:link href="https://g.ziegenhain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 20 Nov 2019 10:14:55 +0100</pubDate>
-    <lastBuildDate>Wed, 20 Nov 2019 10:14:55 +0100</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 20 Nov 2019 13:28:22 +0100</pubDate>
+    <lastBuildDate>Wed, 20 Nov 2019 13:28:22 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;Recently I have created Garmin maps containing cave locations based on OpenTopoMaps. These maps contain height lines and custom POIs of caves. They can be used both on Garmin devices and Oruxmaps (on Android). A Makefile for Garmin maps is provided in&lt;a href=&quot;https://github.com/8cH9azbsFifZ/garmin-opentopo&quot;&gt; this Repo&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 11 Aug 2018 18:49:38 +0200</pubDate>
-        <link>https://g.ziegenhain.com/2018-08-11-building-garmin-maps.html</link>
-        <guid isPermaLink="true">https://g.ziegenhain.com/2018-08-11-building-garmin-maps.html</guid>
+        <link>http://localhost:4000/2018-08-11-building-garmin-maps.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-08-11-building-garmin-maps.html</guid>
         
         <category>Garmin</category>
         
@@ -35,8 +35,8 @@
 &lt;p&gt;(B) CE Kennzeichnung nicht notwendig? In der &lt;a href=&quot;http://eur-lex.europa.eu/eli/dir/2014/53/oj&quot;&gt;Richtlinie 2014/53/EU&lt;/a&gt;, Anhang I, Paragraph 1, (a) sind “&lt;em&gt;[..] Bausätze für Funkanalgen, die von Funkamateuren zusammengebaut werden [..]&lt;/em&gt;” explizit von der Kennzeichnungspflicht ausgenommen.&lt;/p&gt;
 </description>
         <pubDate>Sat, 15 Jul 2017 10:02:10 +0200</pubDate>
-        <link>https://g.ziegenhain.com/2017-07-15-einfuhr-von-amateurfunk-bausatzen-nach-deutschland.html</link>
-        <guid isPermaLink="true">https://g.ziegenhain.com/2017-07-15-einfuhr-von-amateurfunk-bausatzen-nach-deutschland.html</guid>
+        <link>http://localhost:4000/2017-07-15-einfuhr-von-amateurfunk-bausatzen-nach-deutschland.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-07-15-einfuhr-von-amateurfunk-bausatzen-nach-deutschland.html</guid>
         
         <category>Hardware</category>
         
@@ -72,8 +72,8 @@
 
 </description>
         <pubDate>Tue, 13 Sep 2016 21:37:03 +0200</pubDate>
-        <link>https://g.ziegenhain.com/2016-09-13-qrp-appliance.html</link>
-        <guid isPermaLink="true">https://g.ziegenhain.com/2016-09-13-qrp-appliance.html</guid>
+        <link>http://localhost:4000/2016-09-13-qrp-appliance.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-09-13-qrp-appliance.html</guid>
         
         <category>Ham Radio</category>
         
@@ -120,8 +120,8 @@
 
 </description>
         <pubDate>Wed, 19 Dec 2012 21:50:00 +0100</pubDate>
-        <link>https://g.ziegenhain.com/2012-12-19-outdoor-qrp-equipment.html</link>
-        <guid isPermaLink="true">https://g.ziegenhain.com/2012-12-19-outdoor-qrp-equipment.html</guid>
+        <link>http://localhost:4000/2012-12-19-outdoor-qrp-equipment.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2012-12-19-outdoor-qrp-equipment.html</guid>
         
         <category>Ham Radio</category>
         
