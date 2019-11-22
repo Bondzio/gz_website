@@ -5,8 +5,8 @@
     <description>Head of Management Services, DFS</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 22 Nov 2019 16:03:28 +0100</pubDate>
-    <lastBuildDate>Fri, 22 Nov 2019 16:03:28 +0100</lastBuildDate>
+    <pubDate>Fri, 22 Nov 2019 16:12:20 +0100</pubDate>
+    <lastBuildDate>Fri, 22 Nov 2019 16:12:20 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -98,6 +98,32 @@
         <category>Ham Radio</category>
         
         <category>QRP</category>
+        
+      </item>
+    
+      <item>
+        <title>Raspi As WSPR Transmitter</title>
+        <description>&lt;p&gt;Recently the &lt;a href=&quot;http://www.raspberrypi.org/&quot;&gt;Raspberry Pi (Raspi)&lt;/a&gt; has gained much interest in the Ham Radio community. One interesting things is: the I/O pins provide access to a clock signal (GPCLK0) and it is possible to modulate this clock signal via software. This has motivated Guido Ten Dolle (PE1NZZ) to implement a &lt;a href=&quot;http://wsprnet.org/drupal/&quot;&gt;WSPR&lt;/a&gt; transmitter and to publish the sources under GPL. Within the last days I have made some minor modifications to the &lt;a href=&quot;https://github.com/8cH9azbsFifZ/WsprryPi&quot;&gt;WsprryPi&lt;/a&gt; sources, built a &lt;a href=&quot;http://www.gqrp.com/harmonic_filters.pdf&quot;&gt;30m QRP filter&lt;/a&gt; using the ugly method and connected everything to my &lt;a href=&quot;http://www.norcalqrp.org/files/NorCalDoubletAntenna.pdf&quot;&gt;doublet antenna&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/2013-04-13-raspi-as-wspr-transmitter/IMG_1521.JPG&quot; alt=&quot;Raspi as WSPR Transmitter&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Immediately my 10mW have been received in 743km distance by G6HUI (&lt;a href=&quot;http://wsprnet.org/drupal/wsprnet/spots&quot;&gt;WSPR Spots&lt;/a&gt;):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/2013-04-13-raspi-as-wspr-transmitter/wspr_dg6fl_us.png&quot; alt=&quot;7869km with 10mW&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Information on how to do this yourself can be found in the &lt;a href=&quot;https://github.com/8cH9azbsFifZ/WsprryPi&quot;&gt;WsprryPi&lt;/a&gt; repository.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 13 Apr 2013 18:13:00 +0200</pubDate>
+        <link>http://localhost:4000/2013-04-13-raspi-as-wspr-transmitter.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2013-04-13-raspi-as-wspr-transmitter.html</guid>
+        
+        
+        <category>Ham Radio</category>
+        
+        <category>QRP</category>
+        
+        <category>Raspi</category>
         
       </item>
     
