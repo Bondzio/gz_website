@@ -5,11 +5,11 @@
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   
-  <meta name="robots" content="noindex">
-  
 
-  <title>Dr. Gerolf Ziegenhain</title>
-  <meta name="description" content="Head of Management Services, DFS">
+  <title>Raspi As WSPR Transmitter</title>
+  <meta name="description" content="Recently the Raspberry Pi (Raspi) has gained much interest in the Ham Radio community. One interesting things is: the I/O pins provide access to a clock signal (GPCLK0) and it is possible to modulate this clock signal via software. This has motivated Guido Ten Dolle (PE1NZZ) to implement a WSPR transmitter and to publish the sources under GPL. Within the last days I have made some minor modifications to the WsprryPi sources, built a 30m QRP filter using the ugly method and connected everything to my doublet antenna.
+
+">
   <meta name="author" content="Dr. Gerolf Ziegenhain">
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
@@ -18,14 +18,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Dr. Gerolf Ziegenhain">
-  <meta name="twitter:description" content="Head of Management Services, DFS">
+  <meta name="twitter:title" content="Raspi As WSPR Transmitter">
+  <meta name="twitter:description" content="Recently the Raspberry Pi (Raspi) has gained much interest in the Ham Radio community. One interesting things is: the I/O pins provide access to a clock signal (GPCLK0) and it is possible to modulate this clock signal via software. This has motivated Guido Ten Dolle (PE1NZZ) to implement a WSPR transmitter and to publish the sources under GPL. Within the last days I have made some minor modifications to the WsprryPi sources, built a 30m QRP filter using the ugly method and connected everything to my doublet antenna.
+
+">
   
   <meta name="twitter:image" content="/images/favicons/favicon-194x194.png" />
 
   <meta property="og:type" content="article">
-  <meta property="og:title" content="Dr. Gerolf Ziegenhain">
-  <meta property="og:description" content="Head of Management Services, DFS">
+  <meta property="og:title" content="Raspi As WSPR Transmitter">
+  <meta property="og:description" content="Recently the Raspberry Pi (Raspi) has gained much interest in the Ham Radio community. One interesting things is: the I/O pins provide access to a clock signal (GPCLK0) and it is possible to modulate this clock signal via software. This has motivated Guido Ten Dolle (PE1NZZ) to implement a WSPR transmitter and to publish the sources under GPL. Within the last days I have made some minor modifications to the WsprryPi sources, built a 30m QRP filter using the ugly method and connected everything to my doublet antenna.
+
+">
   <meta property="og:image" content="/images/favicons/favicon-194x194.png" />
 
   <link rel="apple-touch-icon" sizes="57x57" href="/images/favicons/apple-touch-icon-57x57.png">
@@ -49,7 +53,7 @@
   <meta name="theme-color" content="#ffffff">
   
   <link rel="stylesheet" href="/css/main.css?1574435656813217000">
-  <link rel="canonical" href="https://g.ziegenhain.com/">
+  <link rel="canonical" href="https://g.ziegenhain.com/2013-04-13-raspi-as-wspr-transmitter.html">
   <link rel="alternate" type="application/rss+xml" title="Dr. Gerolf Ziegenhain" href="/feed.xml">
 </head>
 
@@ -167,119 +171,32 @@
 
     <div class="content-wrapper">
       <div class="content-wrapper__inner">
-        <div class="main-post-list">
+        <article class="post-container post-container--single">
+  <header class="post-header">
+    <div class="post-meta">
+      <time datetime="2013-04-13 18:13" class="post-meta__date date">13 Apr 2013</time>
+      
+    </div>
+    <h1 class="post-title">Raspi As WSPR Transmitter</h1>
+  </header>
 
-  <ol class="post-list">
-    
-      <li>
-        <h2 class="post-list__post-title post-title"><a href="/2018-08-11-building-garmin-maps.html" title="Building Garmin Maps">Building Garmin Maps</a></h2>
-        <p class="excerpt">Recently I have created Garmin maps containing cave locations based on OpenTopoMaps. These maps contain height lines and custom POIs of caves. They can be used both on Garmin devices and Oruxmaps (on Android). A Makefile for Garmin maps is provided in this Repo.
-&hellip;</p>
-        <div class="post-list__meta">
-            <time datetime="2018-08-11 18:49" class="post-list__meta--date date">11 Aug 2018</time>
-            
-            &#8226; <span class="post-meta__tags">on <a href="/tags/#Garmin">Garmin</a>, <a href="/tags/#OSM">OSM</a></span>
-            
-        </div>
-        <hr class="post-list__divider">
-      </li>
-    
-      <li>
-        <h2 class="post-list__post-title post-title"><a href="/2017-07-15-einfuhr-von-amateurfunk-bausatzen-nach-deutschland.html" title="Einfuhr von Amateurfunk-Bausätzen nach Deutschland">Einfuhr von Amateurfunk-Bausätzen nach Deutschland</a></h2>
-        <p class="excerpt">Führt man einen Amateurfunk-Bausatz nach Deutschland ein (z.B. durch Postsendung aus den USA), kann der Weg zum Zollamt fällig werden. Für Amateurfunk-Bausätze ist (A) kein Zoll, (B) kein CE Kennzeichen und nur Einfuhrumsatzsteuer notwendig. Hier fasse ich die Fakten zusammen, die mir bei der Einfuhr bisher immer geholfen haben.
+  <section class="post">
+    <p>Recently the <a href="http://www.raspberrypi.org/">Raspberry Pi (Raspi)</a> has gained much interest in the Ham Radio community. One interesting things is: the I/O pins provide access to a clock signal (GPCLK0) and it is possible to modulate this clock signal via software. This has motivated Guido Ten Dolle (PE1NZZ) to implement a <a href="http://wsprnet.org/drupal/">WSPR</a> transmitter and to publish the sources under GPL. Within the last days I have made some minor modifications to the <a href="https://github.com/8cH9azbsFifZ/WsprryPi">WsprryPi</a> sources, built a <a href="http://www.gqrp.com/harmonic_filters.pdf">30m QRP filter</a> using the ugly method and connected everything to my <a href="http://www.norcalqrp.org/files/NorCalDoubletAntenna.pdf">doublet antenna</a>.</p>
 
-&hellip;</p>
-        <div class="post-list__meta">
-            <time datetime="2017-07-15 10:02" class="post-list__meta--date date">15 Jul 2017</time>
-            
-            &#8226; <span class="post-meta__tags">on <a href="/tags/#Hardware">Hardware</a>, <a href="/tags/#QRP">QRP</a></span>
-            
-        </div>
-        <hr class="post-list__divider">
-      </li>
-    
-      <li>
-        <h2 class="post-list__post-title post-title"><a href="/2016-09-13-qrp-appliance.html" title="QRP Appliance?">QRP Appliance?</a></h2>
-        <p class="excerpt">A QRP Appliance comes to live. It contains:
+<p><img src="/images/posts/2013-04-13-raspi-as-wspr-transmitter/IMG_1521.JPG" alt="Raspi as WSPR Transmitter" /></p>
 
-&hellip;</p>
-        <div class="post-list__meta">
-            <time datetime="2016-09-13 21:37" class="post-list__meta--date date">13 Sep 2016</time>
-            
-            &#8226; <span class="post-meta__tags">on <a href="/tags/#Ham Radio">Ham Radio</a></span>
-            
-        </div>
-        <hr class="post-list__divider">
-      </li>
-    
-      <li>
-        <h2 class="post-list__post-title post-title"><a href="/2016-09-13-verified-all-band-trx-for-the-yaesu-ft-817-nd.html" title="Verified All-Band TRX for the Yaesu FT 817 ND">Verified All-Band TRX for the Yaesu FT 817 ND</a></h2>
-        <p class="excerpt">The information available on the web may be misleading: the jumper enumeration is ambiguous and little information on the extended range exists.
+<p>Immediately my 10mW have been received in 743km distance by G6HUI (<a href="http://wsprnet.org/drupal/wsprnet/spots">WSPR Spots</a>) and within two weeks I was received in a distance of 7869km. Not too bad with about 10mW:</p>
 
-&hellip;</p>
-        <div class="post-list__meta">
-            <time datetime="2016-09-13 21:34" class="post-list__meta--date date">13 Sep 2016</time>
-            
-        </div>
-        <hr class="post-list__divider">
-      </li>
-    
-      <li>
-        <h2 class="post-list__post-title post-title"><a href="/2013-04-13-raspi-as-wspr-transmitter.html" title="Raspi As WSPR Transmitter">Raspi As WSPR Transmitter</a></h2>
-        <p class="excerpt">Recently the Raspberry Pi (Raspi) has gained much interest in the Ham Radio community. One interesting things is: the I/O pins provide access to a clock signal (GPCLK0) and it is possible to modulate this clock signal via software. This has motivated Guido Ten Dolle (PE1NZZ) to implement a WSPR transmitter and to publish the sources under GPL. Within the last days I have made some minor modifications to the WsprryPi sources, built a 30m QRP filter using the ugly method and connected everything to my doublet antenna.
+<p><img src="/images/posts/2013-04-13-raspi-as-wspr-transmitter/wspr_dg6fl_us.png" alt="7869km with 10mW" /></p>
 
-&hellip;</p>
-        <div class="post-list__meta">
-            <time datetime="2013-04-13 18:13" class="post-list__meta--date date">13 Apr 2013</time>
-            
-        </div>
-        <hr class="post-list__divider">
-      </li>
-    
-      <li>
-        <h2 class="post-list__post-title post-title"><a href="/2012-12-19-outdoor-qrp-equipment.html" title="Outdoor QRP Equipment">Outdoor QRP Equipment</a></h2>
-        <p class="excerpt">Hiking is fun and QRP is fun. Both can be combined using homebrew equipment :)
+<p>Information on how to do this yourself can be found in the <a href="https://github.com/8cH9azbsFifZ/WsprryPi">WsprryPi</a> repository.</p>
 
-&hellip;</p>
-        <div class="post-list__meta">
-            <time datetime="2012-12-19 21:50" class="post-list__meta--date date">19 Dec 2012</time>
-            
-            &#8226; <span class="post-meta__tags">on <a href="/tags/#Ham Radio">Ham Radio</a>, <a href="/tags/#QRP">QRP</a></span>
-            
-        </div>
-        <hr class="post-list__divider">
-      </li>
-    
-      <li>
-        <h2 class="post-list__post-title post-title"><a href="/2010-05-03-lattice-defects.html" title="Lattice Defects">Lattice Defects</a></h2>
-        <p class="excerpt">Stacking faults are colored in red, partial dislocations and the surfaces are colored in gray.  The  nucleation of plasticity is homogenous. An amorphous blob of defective particles is nucleated in the region of the maximal stress. Later a stacking fault is nucleated and cross glide sets in.
 
-&hellip;</p>
-        <div class="post-list__meta">
-            <time datetime="2010-05-03 20:05" class="post-list__meta--date date">3 May 2010</time>
-            
-        </div>
-        <hr class="post-list__divider">
-      </li>
-    
-      <li>
-        <h2 class="post-list__post-title post-title"><a href="/2005-01-24-freies-buch-theoretische-physik.html" title="Freies Buch: Theoretische Physik">Freies Buch: Theoretische Physik</a></h2>
-        <p class="excerpt">Im Rahmen der Vorbereitungen auf die Physik Diplomprüfungen habe ich mit einigen Kommilitonen ein Buch über theoretische Physik verfasst: Theoretische Physik: Thermodynamik und statistische Mechanik.
-&hellip;</p>
-        <div class="post-list__meta">
-            <time datetime="2005-01-24 22:31" class="post-list__meta--date date">24 Jan 2005</time>
-            
-        </div>
-        <hr class="post-list__divider">
-      </li>
-    
-  </ol>
-
-  <hr class="post-list__divider ">
-
+  </section>
   
+</article>
 
-</div>
+
 
       </div>
 

@@ -3,7 +3,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/2018-08-11-building-garmin-maps.html</loc>
+      <loc>https://g.ziegenhain.com/2018-08-11-building-garmin-maps.html</loc>
       
         <lastmod>2018-08-11T18:49:38+02:00</lastmod>
       
@@ -18,7 +18,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/2017-07-15-einfuhr-von-amateurfunk-bausatzen-nach-deutschland.html</loc>
+      <loc>https://g.ziegenhain.com/2017-07-15-einfuhr-von-amateurfunk-bausatzen-nach-deutschland.html</loc>
       
         <lastmod>2017-07-15T10:02:10+02:00</lastmod>
       
@@ -33,7 +33,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/2016-09-13-qrp-appliance.html</loc>
+      <loc>https://g.ziegenhain.com/2016-09-13-qrp-appliance.html</loc>
       
         <lastmod>2016-09-13T21:37:03+02:00</lastmod>
       
@@ -48,7 +48,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/2016-09-13-verified-all-band-trx-for-the-yaesu-ft-817-nd.html</loc>
+      <loc>https://g.ziegenhain.com/2016-09-13-verified-all-band-trx-for-the-yaesu-ft-817-nd.html</loc>
       
         <lastmod>2016-09-13T21:34:27+02:00</lastmod>
       
@@ -63,7 +63,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/2013-04-13-raspi-as-wspr-transmitter.html</loc>
+      <loc>https://g.ziegenhain.com/2013-04-13-raspi-as-wspr-transmitter.html</loc>
       
         <lastmod>2013-04-13T18:13:00+02:00</lastmod>
       
@@ -78,7 +78,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/2012-12-19-outdoor-qrp-equipment.html</loc>
+      <loc>https://g.ziegenhain.com/2012-12-19-outdoor-qrp-equipment.html</loc>
       
         <lastmod>2012-12-19T21:50:00+01:00</lastmod>
       
@@ -93,7 +93,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/2010-05-03-lattice-defects.html</loc>
+      <loc>https://g.ziegenhain.com/2010-05-03-lattice-defects.html</loc>
       
         <lastmod>2010-05-03T20:05:00+02:00</lastmod>
       
@@ -108,7 +108,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/2005-01-24-freies-buch-theoretische-physik.html</loc>
+      <loc>https://g.ziegenhain.com/2005-01-24-freies-buch-theoretische-physik.html</loc>
       
         <lastmod>2005-01-24T22:31:00+01:00</lastmod>
       
@@ -126,43 +126,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/feed.xml</loc>
+      <loc>https://g.ziegenhain.com/feed.xml</loc>
       
-        <lastmod>2019-11-22T16:12:20+01:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/humans.txt</loc>
-      
-        <lastmod>2019-11-22T16:12:20+01:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-  
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/css/main.css</loc>
-      
-        <lastmod>2019-11-22T16:12:20+01:00</lastmod>
+        <lastmod>2019-11-22T16:14:16+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -175,9 +141,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications</loc>
+      <loc>https://g.ziegenhain.com/humans.txt</loc>
       
-        <lastmod>2019-11-22T16:12:20+01:00</lastmod>
+        <lastmod>2019-11-22T16:14:16+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -194,9 +160,43 @@
   
     
     <url>
-      <loc>http://localhost:4000/assets/css/style.css</loc>
+      <loc>https://g.ziegenhain.com/css/main.css</loc>
       
-        <lastmod>2019-11-22T16:12:20+01:00</lastmod>
+        <lastmod>2019-11-22T16:14:16+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://g.ziegenhain.com/publications</loc>
+      
+        <lastmod>2019-11-22T16:14:16+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+  
+    
+  
+    
+    <url>
+      <loc>https://g.ziegenhain.com/assets/css/style.css</loc>
+      
+        <lastmod>2019-11-22T16:14:16+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
