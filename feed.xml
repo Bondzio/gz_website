@@ -5,8 +5,8 @@
     <description>Head of Management Services, DFS</description>
     <link>https://g.ziegenhain.com/</link>
     <atom:link href="https://g.ziegenhain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 20 Nov 2019 13:41:18 +0100</pubDate>
-    <lastBuildDate>Wed, 20 Nov 2019 13:41:18 +0100</lastBuildDate>
+    <pubDate>Fri, 22 Nov 2019 16:14:16 +0100</pubDate>
+    <lastBuildDate>Fri, 22 Nov 2019 16:14:16 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -83,6 +83,51 @@
       </item>
     
       <item>
+        <title>Verified All-Band TRX for the Yaesu FT 817 ND</title>
+        <description>&lt;p&gt;The information available on the web may be misleading: the jumper enumeration is ambiguous and little information on the extended range exists.&lt;/p&gt;
+
+&lt;p&gt;I have summarized the information on how to enable all-band TRX on the FT 817 ND in the picture below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/2016-09-13-verified-all-band-trx-for-the-yaesu-ft-817-nd/bild.png&quot; alt=&quot;Bild&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 13 Sep 2016 21:34:27 +0200</pubDate>
+        <link>https://g.ziegenhain.com/2016-09-13-verified-all-band-trx-for-the-yaesu-ft-817-nd.html</link>
+        <guid isPermaLink="true">https://g.ziegenhain.com/2016-09-13-verified-all-band-trx-for-the-yaesu-ft-817-nd.html</guid>
+        
+        
+        <category>Ham Radio</category>
+        
+        <category>QRP</category>
+        
+      </item>
+    
+      <item>
+        <title>Raspi As WSPR Transmitter</title>
+        <description>&lt;p&gt;Recently the &lt;a href=&quot;http://www.raspberrypi.org/&quot;&gt;Raspberry Pi (Raspi)&lt;/a&gt; has gained much interest in the Ham Radio community. One interesting things is: the I/O pins provide access to a clock signal (GPCLK0) and it is possible to modulate this clock signal via software. This has motivated Guido Ten Dolle (PE1NZZ) to implement a &lt;a href=&quot;http://wsprnet.org/drupal/&quot;&gt;WSPR&lt;/a&gt; transmitter and to publish the sources under GPL. Within the last days I have made some minor modifications to the &lt;a href=&quot;https://github.com/8cH9azbsFifZ/WsprryPi&quot;&gt;WsprryPi&lt;/a&gt; sources, built a &lt;a href=&quot;http://www.gqrp.com/harmonic_filters.pdf&quot;&gt;30m QRP filter&lt;/a&gt; using the ugly method and connected everything to my &lt;a href=&quot;http://www.norcalqrp.org/files/NorCalDoubletAntenna.pdf&quot;&gt;doublet antenna&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/2013-04-13-raspi-as-wspr-transmitter/IMG_1521.JPG&quot; alt=&quot;Raspi as WSPR Transmitter&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Immediately my 10mW have been received in 743km distance by G6HUI (&lt;a href=&quot;http://wsprnet.org/drupal/wsprnet/spots&quot;&gt;WSPR Spots&lt;/a&gt;) and within two weeks I was received in a distance of 7869km. Not too bad with about 10mW:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/2013-04-13-raspi-as-wspr-transmitter/wspr_dg6fl_us.png&quot; alt=&quot;7869km with 10mW&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Information on how to do this yourself can be found in the &lt;a href=&quot;https://github.com/8cH9azbsFifZ/WsprryPi&quot;&gt;WsprryPi&lt;/a&gt; repository.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 13 Apr 2013 18:13:00 +0200</pubDate>
+        <link>https://g.ziegenhain.com/2013-04-13-raspi-as-wspr-transmitter.html</link>
+        <guid isPermaLink="true">https://g.ziegenhain.com/2013-04-13-raspi-as-wspr-transmitter.html</guid>
+        
+        
+        <category>Ham Radio</category>
+        
+        <category>QRP</category>
+        
+        <category>Raspi</category>
+        
+      </item>
+    
+      <item>
         <title>Outdoor QRP Equipment</title>
         <description>&lt;p&gt;Hiking is fun and QRP is fun. Both can be combined using homebrew equipment :)&lt;/p&gt;
 
@@ -129,6 +174,35 @@
         
         
         <category>Ham Radio</category>
+        
+      </item>
+    
+      <item>
+        <title>Lattice Defects</title>
+        <description>&lt;p&gt;Stacking faults are colored in red, partial dislocations and the surfaces are colored in gray.  The  nucleation of plasticity is homogenous. An amorphous blob of defective particles is nucleated in the region of the maximal stress. Later a stacking fault is nucleated and cross glide sets in.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=81Q7szAleCU&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 May 2010 20:05:00 +0200</pubDate>
+        <link>https://g.ziegenhain.com/2010-05-03-lattice-defects.html</link>
+        <guid isPermaLink="true">https://g.ziegenhain.com/2010-05-03-lattice-defects.html</guid>
+        
+        
+        <category>Physics</category>
+        
+      </item>
+    
+      <item>
+        <title>Freies Buch: Theoretische Physik</title>
+        <description>&lt;p&gt;Im Rahmen der Vorbereitungen auf die Physik Diplomprüfungen habe ich mit einigen Kommilitonen ein Buch über theoretische Physik verfasst: &lt;a href=&quot;/doc/theo_TD.pdf&quot;&gt;Theoretische Physik: Thermodynamik und statistische Mechanik&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 24 Jan 2005 22:31:00 +0100</pubDate>
+        <link>https://g.ziegenhain.com/2005-01-24-freies-buch-theoretische-physik.html</link>
+        <guid isPermaLink="true">https://g.ziegenhain.com/2005-01-24-freies-buch-theoretische-physik.html</guid>
+        
+        
+        <category>Physics</category>
         
       </item>
     
