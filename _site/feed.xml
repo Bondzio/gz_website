@@ -5,9 +5,22 @@
     <description>Head of Management Services, DFS</description>
     <link>https://g.ziegenhain.com/</link>
     <atom:link href="https://g.ziegenhain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 10 Dec 2019 20:07:18 +0100</pubDate>
-    <lastBuildDate>Tue, 10 Dec 2019 20:07:18 +0100</lastBuildDate>
+    <pubDate>Sat, 14 Dec 2019 19:19:36 +0100</pubDate>
+    <lastBuildDate>Sat, 14 Dec 2019 19:19:36 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Old Blog</title>
+        <description>&lt;p&gt;You can find my old blog &lt;a href=&quot;https://gerolfziegenhain.wordpress.com/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Dec 2019 17:49:38 +0100</pubDate>
+        <link>https://g.ziegenhain.com/2019-12-10-old-blog.html</link>
+        <guid isPermaLink="true">https://g.ziegenhain.com/2019-12-10-old-blog.html</guid>
+        
+        
+        <category>Blog</category>
+        
+      </item>
     
       <item>
         <title>Building Garmin Maps</title>
